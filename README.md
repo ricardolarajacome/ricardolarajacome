@@ -1,9 +1,9 @@
 # Hey there, I'm Ricardo 🖖🏼
 
 
-🎲 💵 📊 I'm into probability, statistics, data visualization and economics 🎲 💵 📊
+🎲 💵 📊 I'm into probability, statistics, data visualization and economics.
 
-🌱 I'm currently learning Python and Alteryx
+🌱 I'm currently learning Python and Alteryx.
 
 💬 Ask me about SQL, Tableau and PowerBI.
 
