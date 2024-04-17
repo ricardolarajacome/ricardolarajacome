@@ -8,7 +8,8 @@
 💬 Ask me about SQL, Tableau and PowerBI.
 
 👨‍💻 All of my projects are available at: https://ricardolarajacome.github.io/portafolio/
-                                     and: https://public.tableau.com/app/profile/ricardo.lara/vizzes
+                                    
+                                    and: https://public.tableau.com/app/profile/ricardo.lara/vizzes
 
 📝 I write articles on: https://medium.com/@rjacome21
 
