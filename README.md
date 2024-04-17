@@ -13,7 +13,7 @@
 
 📫 Reach me on: https://www.linkedin.com/in/ricardo-lara-jacome/
 
-⚡ Fun fact: As a philosophy major, I've discovered that my ability to critically examine issues from multiple perspectives seamlessly complements my passion for data analysis. This combination equips me to tackle intricate challenges with a blend of creativity and precision. 📚
+⚡ Fun fact: I majored in philosophy, where I honed my skills in critically examining issues from various perspectives. I've found that these analytical abilities seamlessly complement my passion for data analysis, enabling me to tackle complex challenges with a unique blend of creativity and precision. 📚
 
 
 ## Connect with me:
