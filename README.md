@@ -5,7 +5,7 @@
 
 🌱 I'm currently learning Python and Alteryx.
 
-❓ Questions? 💬 Ask me about SQL, Tableau and PowerBI.
+💬 Ask me about SQL, Tableau and PowerBI.
 
 👀 Have a look at my Tableau projects: https://public.tableau.com/app/profile/ricardo.lara/vizzes
 
