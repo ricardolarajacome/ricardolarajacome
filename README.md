@@ -24,7 +24,16 @@
 
 
 ## Languages and tools:
-[![My Skills](https://skillicons.dev/icons?i=postgres,py,git,gcp,docker,anaconda,linux,html,&perline=8)](https://www.postgresql.org/)([https://www.python.org/])([https://git-scm.com/])([https://cloud.google.com/?hl=en])([https://www.docker.com/])([https://www.anaconda.com/download])([https://www.linux.org/])([https://html.com/])
+[![My Skills](https://skillicons.dev/icons?i=postgres,py,git,gcp,docker,anaconda,linux,html,&perline=8)](https://www.postgresql.org/)
+
+[![PostgreSQL](https://skillicons.dev/icons/postgres)](https://www.postgresql.org/)
+[![Python](https://skillicons.dev/icons/py)](https://www.python.org/)
+[![Git](https://skillicons.dev/icons/git)](https://git-scm.com/)
+[![Google Cloud Platform](https://skillicons.dev/icons/gcp)](https://cloud.google.com/?hl=en)
+[![Docker](https://skillicons.dev/icons/docker)](https://www.docker.com/)
+[![Anaconda](https://skillicons.dev/icons/anaconda)](https://www.anaconda.com/download)
+[![Linux](https://skillicons.dev/icons/linux)](https://www.linux.org/)
+[![HTML](https://skillicons.dev/icons/html)](https://html.com/)
 
 
 [![ricardolarajacome's GitHub | Stats](https://stats.quine.sh/ricardolarajacome/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ricardolarajacome)
