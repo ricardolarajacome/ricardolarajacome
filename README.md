@@ -24,15 +24,14 @@
 
 
 ## Languages and tools:
-[![My Skills](https://skillicons.dev/icons?i=postgres,py,git,gcp,docker,anaconda,linux,html,&perline=8)](https://www.postgresql.org/)
-[![Python](https://skillicons.dev/icons/py)](https://www.python.org/)
-[![Git](https://skillicons.dev/icons/git)](https://git-scm.com/)
-[![Google Cloud Platform](https://skillicons.dev/icons/gcp)](https://cloud.google.com/?hl=en)
-[![Docker](https://skillicons.dev/icons/docker)](https://www.docker.com/)
-[![Anaconda](https://skillicons.dev/icons/anaconda)](https://www.anaconda.com/download)
-[![Linux](https://skillicons.dev/icons/linux)](https://www.linux.org/)
-[![HTML](https://skillicons.dev/icons/html)](https://html.com/)
-
+[<img src="https://skillicons.dev/icons/postgres" alt="PostgreSQL" width="50"/>](https://www.postgresql.org/)
+[<img src="https://skillicons.dev/icons/py" alt="Python" width="50"/>](https://www.python.org/)
+[<img src="https://skillicons.dev/icons/git" alt="Git" width="50"/>](https://git-scm.com/)
+[<img src="https://skillicons.dev/icons/gcp" alt="Google Cloud Platform" width="50"/>](https://cloud.google.com/?hl=en)
+[<img src="https://skillicons.dev/icons/docker" alt="Docker" width="50"/>](https://www.docker.com/)
+[<img src="https://skillicons.dev/icons/anaconda" alt="Anaconda" width="50"/>](https://www.anaconda.com/download)
+[<img src="https://skillicons.dev/icons/linux" alt="Linux" width="50"/>](https://www.linux.org/)
+[<img src="https://skillicons.dev/icons/html" alt="HTML" width="50"/>](https://html.com/)
 
 
 [![ricardolarajacome's GitHub | Stats](https://stats.quine.sh/ricardolarajacome/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ricardolarajacome)
