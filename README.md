@@ -25,8 +25,6 @@
 
 ## Languages and tools:
 [![My Skills](https://skillicons.dev/icons?i=postgres,py,git,gcp,docker,anaconda,linux,html,&perline=8)](https://www.postgresql.org/)
-
-[![My Skills](https://skillicons.dev/icons?i=postgres,py,git,gcp,docker,anaconda,linux,html,&perline=8)](https://www.postgresql.org/)
 [![Python](https://skillicons.dev/icons/py)](https://www.python.org/)
 [![Git](https://skillicons.dev/icons/git)](https://git-scm.com/)
 [![Google Cloud Platform](https://skillicons.dev/icons/gcp)](https://cloud.google.com/?hl=en)
