@@ -24,14 +24,8 @@
 
 
 ## Languages and tools:
-[<img src="https://via.placeholder.com/50" alt="PostgreSQL" width="50"/>](https://www.postgresql.org/)
-[<img src="https://via.placeholder.com/50" alt="Python" width="50"/>](https://www.python.org/)
-[<img src="https://via.placeholder.com/50" alt="Git" width="50"/>](https://git-scm.com/)
-[<img src="https://via.placeholder.com/50" alt="Google Cloud Platform" width="50"/>](https://cloud.google.com/?hl=en)
-[<img src="https://via.placeholder.com/50" alt="Docker" width="50"/>](https://www.docker.com/)
-[<img src="https://via.placeholder.com/50" alt="Anaconda" width="50"/>](https://www.anaconda.com/download)
-[<img src="https://via.placeholder.com/50" alt="Linux" width="50"/>](https://www.linux.org/)
-[<img src="https://via.placeholder.com/50" alt="HTML" width="50"/>](https://html.com/)
+[![My Skills](https://skillicons.dev/icons?i=postgres,py,git,gcp,docker,anaconda,linux,html,&perline=8)](https://www.postgresql.org/)
+
 
 
 [![ricardolarajacome's GitHub | Stats](https://stats.quine.sh/ricardolarajacome/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ricardolarajacome)
