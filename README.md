@@ -24,7 +24,7 @@
 
 
 ## Languages and tools:
-[![My Skills](https://skillicons.dev/icons?i=postgres,py,github,gcp,docker,anaconda,linux,html,&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres,py,git,gcp,docker,anaconda,linux,html,&perline=8)](https://skillicons.dev)
 
 
 [![ricardolarajacome's GitHub | Stats](https://stats.quine.sh/ricardolarajacome/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ricardolarajacome)
