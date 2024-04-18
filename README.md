@@ -24,7 +24,7 @@
 
 
 ## Languages and tools:
-[![My Skills](https://skillicons.dev/icons?i=postgres,py,git,gcp,docker,anaconda,linux,html,&perline=8)](https://www.postgresql.org/)(https://www.python.org/)(https://git-scm.com/)(https://cloud.google.com/?hl=en)(https://www.docker.com/)(https://www.anaconda.com/download)(https://www.linux.org/)(https://html.com/)
+[![My Skills](https://skillicons.dev/icons?i=postgres,py,git,gcp,docker,anaconda,linux,html,&perline=8)](https://www.postgresql.org/)([https://www.python.org/])([https://git-scm.com/])([https://cloud.google.com/?hl=en])([https://www.docker.com/])([https://www.anaconda.com/download])([https://www.linux.org/])([https://html.com/])
 
 
 [![ricardolarajacome's GitHub | Stats](https://stats.quine.sh/ricardolarajacome/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ricardolarajacome)
