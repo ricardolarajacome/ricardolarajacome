@@ -13,7 +13,7 @@
 
 #### 📫 Reach me on: https://www.linkedin.com/in/ricardo-lara-jacome/
 
-#### 🎙️ Spoken languages in order of proficiency:: 🇪🇸 🇬🇧 🇫🇷 🇮🇹 🇩🇪
+#### 🎙️ Spoken languages in order of proficiency: 🇪🇸 🇬🇧 🇫🇷 🇮🇹 🇩🇪
 
 #### ⚡ Fun fact: I majored in philosophy, where I honed my skills in critically examining issues from various perspectives. I've found that these analytical abilities seamlessly complement my passion for data analysis, enabling me to tackle complex challenges with a unique blend of creativity and precision. 💡📚
 
