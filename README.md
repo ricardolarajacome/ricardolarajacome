@@ -7,12 +7,12 @@
 
 #### 💬 Ask me about SQL, Tableau and PowerBI.
 
-#### 👀 Have a look at my Tableau projects: <a href="https://public.tableau.com/app/profile/ricardo.lara/vizzes" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau" width="40" height="40"/></a>
+### 👀 Have a look at my Tableau projects: <a href="https://public.tableau.com/app/profile/ricardo.lara/vizzes" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau" width="40" height="40"/></a>
 
-#### 📝 I write articles on: <a href="https://medium.com/@rjacome21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="ricardolarajacome" height="30" width="40" /></a>
+### 📝 I write articles on: <a href="https://medium.com/@rjacome21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="ricardolarajacome" height="30" width="40" /></a>
 </p>
 
-#### 📫 Reach me on: <a href="https://www.linkedin.com/in/ricardo-lara-jacome/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ricardolarajacome" height="30" width="40" /></a>
+### 📫 Reach me on: <a href="https://www.linkedin.com/in/ricardo-lara-jacome/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ricardolarajacome" height="30" width="40" /></a>
 
 #### 🎙️ Spoken languages in order of proficiency:: 🇪🇸 🇬🇧 🇫🇷 🇮🇹 🇩🇪
 
