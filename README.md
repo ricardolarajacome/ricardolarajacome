@@ -7,11 +7,11 @@
 
 #### 💬 Ask me about SQL, Tableau and PowerBI.
 
-### 👀 Have a look at my Tableau projects: https://public.tableau.com/app/profile/ricardo.lara/vizzes
+#### 👀 Have a look at my Tableau projects: https://public.tableau.com/app/profile/ricardo.lara/vizzes
 
-### 📝 I write articles on: https://medium.com/@rjacome21
+#### 📝 I write articles on: https://medium.com/@rjacome21
 
-### 📫 Reach me on: https://www.linkedin.com/in/ricardo-lara-jacome/
+#### 📫 Reach me on: https://www.linkedin.com/in/ricardo-lara-jacome/
 
 #### 🎙️ Spoken languages in order of proficiency:: 🇪🇸 🇬🇧 🇫🇷 🇮🇹 🇩🇪
 
