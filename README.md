@@ -1,7 +1,7 @@
 # Hey there, I'm Ricardo 🖖🏼
 
 
-#### 🎲 📊 💵 I'm into probability, statistics, data visualization and economics.
+#### 🎲 📊 I'm into probability, statistics, data visualization and economics.
 
 #### 🌱 I'm currently learning Python and Alteryx.
 
@@ -16,6 +16,11 @@
 #### 🎙️ Spoken languages in order of proficiency: 🇪🇸 🇬🇧 🇫🇷 🇮🇹 🇩🇪
 
 #### ⚡ Fun fact: I majored in philosophy, where I honed my skills in critically examining issues from various perspectives. I've found that these analytical abilities seamlessly complement my passion for data analysis, enabling me to tackle complex challenges with a unique blend of creativity and precision. 💡📚
+
+#### 💡 Bonus: I'm a huge fan of Astérix and Obélix comics! 
+
+<a href="https://asterix.com/es/portfolio/obelix/" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/asterix-2.svg" alt="asteryx" height="30" width="40" /></a>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
