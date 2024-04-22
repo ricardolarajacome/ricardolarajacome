@@ -15,9 +15,9 @@
 
 #### 🎙️ Spoken languages in order of proficiency: 🇪🇸 🇬🇧 🇫🇷 🇮🇹 🇩🇪
 
-#### ⚡ Curious fact: I majored in philosophy, where I honed my skills in critically examining issues from various perspectives. I've found that these analytical abilities seamlessly complement my passion for data analysis, enabling me to tackle complex challenges with a unique blend of creativity and precision. 💡📚
+#### ⚡ Curious fact: I majored in philosophy, where I honed my skills in critically examining issues from various perspectives. I've found that these analytical abilities seamlessly complement my passion for data analysis, enabling me to tackle complex challenges with a unique blend of creativity and precision. 💡
 
-#### 💡 Fun fact: I'm a huge fan of Astérix and Obélix comics! <a href="https://asterix.com/es/portfolio/obelix/" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/asterix-2.svg" alt="asteryx" height="30" width="40" /></a>
+#### 📚 Fun fact: I'm a huge fan of Astérix and Obélix comics! <a href="https://asterix.com/es/portfolio/obelix/" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/asterix-2.svg" alt="asteryx" height="30" width="40" /></a>
 
 
 <h3 align="left">Connect with me:</h3>
