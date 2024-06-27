@@ -3,7 +3,7 @@
 
 #### 🎲 📊 I'm into probability, data visualization and economics.
 
-#### 🌱 I'm currently learning Python and Alteryx.
+#### 🌱 I'm currently learning Linux and Alteryx.
 
 #### 💬 Ask me about SQL, Tableau and PowerBI.
 
